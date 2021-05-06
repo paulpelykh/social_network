@@ -28,7 +28,7 @@ let db = {
 			createdAt: '2020-03-15T10:59:52.798Z',
 		},
 	],
-	notificaitons: [
+	notifications: [
 		{
 			recipient: 'user',
 			sender: 'john',
@@ -55,11 +55,11 @@ const userDetails = {
 	likes: [
 		{
 			userHandle: 'user',
-			screamId: 'hh7O5oWfWucVzGbHH2pa',
+			postId: 'hh7O5oWfWucVzGbHH2pa',
 		},
 		{
 			userHandle: 'user',
-			screamId: '3IOnFoQexRcofs5OhBXO',
+			postId: '3IOnFoQexRcofs5OhBXO',
 		},
 	],
 };
